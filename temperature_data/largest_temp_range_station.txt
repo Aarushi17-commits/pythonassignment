@@ -1,0 +1,3 @@
+Largest Temperature Range: 20.58 °C
+Station(s):
+WYALONG-POST-OFFICE
